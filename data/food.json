@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Dozen Eggs",
+        "price": 140,
+        "maxQuantity": 10,
+        "quantity": 0
+    },
+    {
+        "id": 2,
+        "name": "Bread",
+        "price": 100,
+        "maxQuantity": 10,
+        "quantity": 0
+    },
+    {
+        "id": 3,
+        "name": "Apple Juice",
+        "price": 200,
+        "maxQuantity": 8,
+        "quantity": 0
+    },
+    {
+        "id": 4,
+        "name": "Cheese",
+        "price": 200,
+        "maxQuantity": 7,
+        "quantity": 0
+    },
+    {
+        "id": 5,
+        "name": "Rice(1 kg)",
+        "price": 130,
+        "maxQuantity": 10,
+        "quantity": 0
+    },
+    {
+        "id": 6,
+        "name": "Pizza(M)",
+        "price": 1000,
+        "maxQuantity": 20,
+        "quantity": 0
+    },
+    {
+        "id": 7,
+        "name": "Cake",
+        "price": 500,
+        "maxQuantity": 8,
+        "quantity": 0
+    },
+    {
+        "id": 8,
+        "name": "Milk",
+        "price": 120,
+        "maxQuantity": 10,
+        "quantity": 0
+    },
+    {
+        "id": 9,
+        "name": "Fish",
+        "price": 600,
+        "maxQuantity": 8,
+        "quantity": 0
+    },
+    {
+        "id": 10,
+        "name": "Mineral Water",
+        "price": 80,
+        "maxQuantity": 30,
+        "quantity": 0
+    }
+]
